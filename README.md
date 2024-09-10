@@ -1,0 +1,1 @@
+File contains a test housing data showing the Housing Income and factors that affect it. A regression analysis was performed on the data using various models of which the best proved to be the Linear regression model.
